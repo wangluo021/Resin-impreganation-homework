@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+student_template/results/
+~$*
+~WRL*.tmp
+_docx_render_check*/
