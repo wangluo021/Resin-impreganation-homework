@@ -5,7 +5,7 @@ This repository contains the student-facing version of the 2D fiber-scale resin 
 ## Contents
 
 - `student_template/`: Python homework template for students.
-- `docs/MECHENG451_fiber_impregnation_homework.docx`: assignment handout with UMich table colors.
+- `docs/MECHENG451_fiber_impregnation_homework_v1.pdf`: assignment handout PDF.
 - `docs/MECHENG451_result_examples.docx`: example result figures handout.
 - `homework_questions.md`: written-response questions.
 - `requirements.txt`: Python dependencies.
@@ -27,3 +27,4 @@ python student_template\main.py
 The template stops with a clear `NotImplementedError` until the required TODO functions are completed.
 
 Students complete the geometry, viscosity, and impregnation functions listed in the assignment handout. The cure kinetics and cure-viscosity coupling are supplied so the homework stays focused on fiber architecture, processing temperature, resin mobility, and impregnation during manufacturing.
+
